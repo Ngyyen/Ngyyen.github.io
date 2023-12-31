@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rootElement>
+    <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Transmarize App v1.1.1</title>
         <link>https://ngyyen.github.io/AppCast.xml</link>
@@ -19,4 +20,5 @@
                        sparkle:signature="Zp8SVmqWFoqS2BvkXS2D9Cdvok4NREohUM/xoWjtTu0IuyfpiInTEl+7dchVixMZWqfUkUTUQOKfzRjRMOdhAg==" />
         </item>
     </channel>
-</rss>
+    </rss>
+</rootElement>
